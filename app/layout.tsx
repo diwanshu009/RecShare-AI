@@ -9,7 +9,7 @@ const geistKarla = Karla({
 });
 
 export const metadata: Metadata = {
-    title: "RecShare",
+    title: "RecShare.AI",
     description: "A Screen recording and sharing platform",
     icons: {
         icon: "/assets/icons/logo.svg",
